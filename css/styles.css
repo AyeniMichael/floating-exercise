@@ -1,0 +1,20 @@
+
+.body {
+    width: 20%;
+    float: left;
+    background-color: palegreen;
+    padding: 5px;
+    margin: 15px;
+}
+
+.sidebar {
+    float: right;
+    background-color: cadetblue;
+}
+
+img {
+    width: 150px;
+    float:left;
+    padding: 5px;
+    margin: 5px;
+}
